@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Miran's Blog
+email:              smr4880@gmail.com
+description:        start!!
+author:             Miran Seok
 baseurl:            ""
 url:                "https://miran-seok.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    miran-seok
+facebook_username:  
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
